@@ -16,6 +16,7 @@ GPIO.setup(16, GPIO.IN, pull_up_down=GPIO.PUD_UP)#Button to GPIO23
 GPIO.setup(18, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 button_state = GPIO.input(16)
 pause_button_state = GPIO.input(18)
+pygame.init()
 pygame.mixer.init()
 
 print("Press Start button to read out the page")
