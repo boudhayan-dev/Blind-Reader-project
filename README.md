@@ -1,5 +1,5 @@
 
-# Blind Reader &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?longCache=true&style=plastic)](https://GitHub.com/Naereen/ama) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg?longCache=true&style=plastic)](https://www.python.org/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg?longCache=true&style=plastic)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  ![PyPI - Status](https://img.shields.io/pypi/status/Django.svg?style=plastic) ![Contributor](https://img.shields.io/badge/Contributors-2-orange.svg?longCache=true&style=plastic)<br>
+# Blind Reader &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?longCache=true&style=plastic)](https://GitHub.com/Naereen/ama) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg?longCache=true&style=plastic)](https://www.python.org/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg?longCache=true&style=plastic)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  ![PyPI - Status](https://img.shields.io/pypi/status/Django.svg?style=plastic) ![Contributor](https://img.shields.io/badge/Contributors-2-orange.svg?longCache=true&style=plastic)<br>
 
 ###### Welcome to the Blind Reader project !
 
@@ -36,11 +36,12 @@
 ## Usage
 
 - Use the following code to install the Google cloud python dependency.
-<br>
-<code>pip3 install --upgrade google-api-python-client<br>
+
+```pip3 install --upgrade google-api-python-client<br>
 pip3 install --upgrade google-cloud-vision<br>
 pip3 install --upgrade google-cloud 
-</code><br>
+```
+<br>
 	Use : [Google CLoud Vision API](https://developers.google.com/api-client-library/python/apis/vision/v1) for further Details.
 <br>
 
@@ -82,5 +83,5 @@ pip3 install --upgrade google-cloud
 
 ## Developers
 
-<a href="https://github.com/boudhayan-dev"><img src="images/devinfo1.png" width="300px" height="170px" align="left"></a> 
-<a href="https://github.com/chinmay4382"><img src="images/devinfo2.png" width="300px" height="170px" align="right"></a> 
+<a href="https://github.com/boudhayan-dev"><img src="images/devinfo1.png" width="500px" height="170px" align="left"></a> 
+<a href="https://github.com/chinmay4382"><img src="images/devinfo2.png" width="500px" height="170px" align="right"></a> 
