@@ -37,12 +37,12 @@
 
 - Use the following code to install the Google cloud python dependency.
 
-```pip3 install --upgrade google-api-python-client<br>
-pip3 install --upgrade google-cloud-vision<br>
+```pip3 install --upgrade google-api-python-client
+pip3 install --upgrade google-cloud-vision
 pip3 install --upgrade google-cloud 
 ```
 <br>
-	Use : [Google CLoud Vision API](https://developers.google.com/api-client-library/python/apis/vision/v1) for further Details.
+	Use :  [ Google CLoud Vision API ](https://developers.google.com/api-client-library/python/apis/vision/v1) for further Details.
 <br>
 
 - Activate <strong>Cloud Vision API</strong> and <strong>Google Cloud Text-to-Speech API</strong> by visiting the dashboard and download the Service account credentials (Json file).<br>
@@ -58,7 +58,7 @@ pip3 install --upgrade google-cloud
 
 - Use the following code to start the system:<br>
 
-<code> python3 //path/to/your/final.py/file</code>
+``` python3 //path/to/your/final.py/file</code> ```
 <br>
 
 - Place the image to be read under the camera and press  <code>Button 1</code>  to read out a page.
@@ -83,5 +83,5 @@ pip3 install --upgrade google-cloud
 
 ## Developers
 
-<a href="https://github.com/boudhayan-dev"><img src="images/devinfo1.png" width="500px" height="170px" align="left"></a> 
-<a href="https://github.com/chinmay4382"><img src="images/devinfo2.png" width="500px" height="170px" align="right"></a> 
+<a href="https://github.com/boudhayan-dev"><img src="images/devinfo1.png" width="450px" height="170px" align="left"></a> 
+<a href="https://github.com/chinmay4382"><img src="images/devinfo2.png" width="450px" height="170px" align="right"></a> 
