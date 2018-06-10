@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <div class="header" style="width: 100%; display: flex;">
 	<div style="font-size: 50px; font-family: arial; width: 50%;"> Blind Reader</div> 
 	<div style="width: 50%; text-align: right; display: table; ">
