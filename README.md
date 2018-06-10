@@ -58,8 +58,7 @@ pip3 install --upgrade google-cloud
 	<br>
 
 - Use the following code to start the system:<br>
-
-``` python3 //path/to/your/final.py/file</code> ```
+``` python3 //path/to/your/final.py/file ```
 <br>
 
 - Place the image to be read under the camera and press  <code>Button 1</code>  to read out a page.
@@ -84,5 +83,5 @@ pip3 install --upgrade google-cloud
 
 ## Developers
 
-<a href="https://github.com/boudhayan-dev"><img src="images/devinfo1.png" width="400px" height="170px" align="left"></a> 
-<a href="https://github.com/chinmay4382"><img src="images/devinfo2.png" width="400px" height="170px" align="right"></a> 
+<a href="https://github.com/boudhayan-dev"><img src="images/devinfo1.png" width="400px" height="155px" align="left"></a> 
+<a href="https://github.com/chinmay4382"><img src="images/devinfo2.png" width="400px" height="155px" align="right"></a> 
