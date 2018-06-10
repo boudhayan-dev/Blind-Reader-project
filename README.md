@@ -28,8 +28,8 @@
 	- google-cloud.
 	- time.
 	- os.
-	- datetime.
--Google Cloud API - Vision , Text-to-Speech
+	- datetime.	
+- Google Cloud API - Vision , Text-to-Speech
 
 <br>
 
