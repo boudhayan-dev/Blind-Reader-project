@@ -43,7 +43,7 @@ pip3 install --upgrade google-cloud-vision
 pip3 install --upgrade google-cloud 
 ```
 <br>
-	Use :  [ Google CLoud Vision API ](https://developers.google.com/api-client-library/python/apis/vision/v1) for further Details.
+	Use :  <a href="https://developers.google.com/api-client-library/python/apis/vision/v1">Google CLoud Vision API</a> for further Details.
 <br>
 
 - Activate <strong>Cloud Vision API</strong> and <strong>Google Cloud Text-to-Speech API</strong> by visiting the dashboard and download the Service account credentials (Json file).<br>
