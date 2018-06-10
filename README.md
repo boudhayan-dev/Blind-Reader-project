@@ -5,8 +5,8 @@
 ###### Welcome to the Blind Reader project !
 
  Blind Reader is a portable, low-cost, reading device made for the blind people. The Braille machines are expensive and as a result are not accessible to many. <strong>Blind Reader</strong> overcomes the limitation of conventional Braille machine by making it affordable for the common masses. The system uses OCR technology to convert images into text and reads out the text by using Text-to-Speech conversion.The system supports audio output via Speakers as well as headphone. The user also has the ability to pause the audio output whenever he desires. It also has the facility to store the images in their respective book folder, thereby creating digital backup simultaneously. With this system, the blind user does not require the complexity of Braille machine to read a book. All it takes is a button to control the entire system !
+<br><br>
 
-<br>
 ## Dependency
 
 #### Hardware Requirements:
@@ -33,6 +33,7 @@
 -Google Cloud API - Vision , Text-to-Speech
 
 <br>
+
 ## Usage
 
 - Use the following code to install the Google cloud python dependency.
@@ -57,6 +58,7 @@ Use : [Google CLoud Vision API](https://developers.google.com/api-client-library
 <br><br>
 - Place the image to be read under the camera and press  <code>Button 1</code>  to read out a page.
 <br><br>
+
 ## Demonstration
 <br>
 <img src="images/system1.jpg" width="420px" height="420px" align="left">
