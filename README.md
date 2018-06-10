@@ -37,14 +37,16 @@
 ## Usage
 
 - Use the following code to install the Google cloud python dependency.
-<br>
+
 <br><code>pip3 install --upgrade google-api-python-client<br>
 pip3 install --upgrade google-cloud-vision<br>
 pip3 install --upgrade google-cloud 
 </code><br><br>
 Use : [Google CLoud Vision API](https://developers.google.com/api-client-library/python/apis/vision/v1) for further Details.
-<br><br>
-- Activate <strong>Cloud Vision API</strong> and <strong>Google Cloud Text-to-Speech API</strong> by visiting the dashboard and download the Service account credentials (Json file).<br><br>
+<br>
+
+- Activate <strong>Cloud Vision API</strong> and <strong>Google Cloud Text-to-Speech API</strong> by visiting the dashboard and download the Service account credentials (Json file).<br>
+
 - Connect the hardware as follows:
 	- Pi Camera --> Camera Slot in Raspberry Pi 3.
 	- Pair Bluetooth Speaker / Insert headphone into Raspberry Pi 3 audio jack.
@@ -52,19 +54,24 @@ Use : [Google CLoud Vision API](https://developers.google.com/api-client-library
 	- 4 LEDs - GPIO 29 , 31 , 33 , 35 respectively.
 	- Push Button 1 ( Camera capture ) --> GPIO 16.
 	- Push Button 2 ( Play/Pause audio ) --> GPIO 18.
-	<br><br>
+	<br>
+
 - Use the following code to start the system:<br>
+
 <code> python3 //path/to/your/final.py/file</code>
-<br><br>
+<br>
+
 - Place the image to be read under the camera and press  <code>Button 1</code>  to read out a page.
-<br><br>
+<br>
 
 ## Demonstration
 <br>
 <img src="images/system1.jpg" width="420px" height="420px" align="left">
 <img src="images/system2.jpg" width="420px" height="350px" align="right" >
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ## Resources
+
 - [Google Cloud Platform.](https://cloud.google.com/python/docs/reference/)
 
 - [Pygame python library.](https://www.pygame.org/news)
