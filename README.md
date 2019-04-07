@@ -81,7 +81,3 @@ pip3 install --upgrade google-cloud
 - [Python.](https://www.python.org/)
 <br><br>
 
-## Developers
-
-<a href="https://github.com/boudhayan-dev"><img src="images/devinfo1.png" width="400px" height="155px" align="left"></a> 
-<a href="https://github.com/chinmay4382"><img src="images/devinfo2.png" width="400px" height="155px" align="right"></a> 
